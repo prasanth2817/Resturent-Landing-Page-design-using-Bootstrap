@@ -1,4 +1,9 @@
 /*nav button part*/
+body{
+    width: 100%;
+    max-width: 1320px;
+    margin: 0;
+}
 .navbar {
   display: flex;
   justify-content: space-around !important;
